@@ -1,10 +1,8 @@
 # trojan-horse-hunt
 Trojan Horse Hunt in Time Series Forecasting(ESA)
 
-
 # Trojan Horse Hunt 
-
-This repository contains a **fully reproducible pipeline**
+This repository contains a **fully reproducible pipeline**.
 It adapts the Neural Cleanse method to the multivariate telemetry setting (3 channels × 75 samples)
 ---
 
